@@ -8,7 +8,7 @@ Widget JavaScript para integrar conectividade bancária Open Finance em sua apli
 
 ```html
 <script type="module">
-  import { TitaniumWidget } from 'https://dunk73l1px2oh.cloudfront.net/titanium-widget.es.js';
+  import { TitaniumWidget } from 'https://cdn.titaniumplus.com.br/titanium-widget.es.js';
   
   const widget = new TitaniumWidget({ ... });
 </script>
